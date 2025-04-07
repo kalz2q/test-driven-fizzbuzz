@@ -12,5 +12,8 @@
   "private": "true",
   "devDependencies": {
     "jest": "^29.4.3"
+  },
+  "dependencies": {
+    "tsc": "^2.0.4"
   }
 }
